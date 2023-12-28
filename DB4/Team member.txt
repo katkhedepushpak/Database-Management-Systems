@@ -1,0 +1,18 @@
+CS 540 - Database Management Systems - Spring 2023
+
+Submission: Join Algorithms (w8) 
+
+Name - Pushpak Katkhede
+Email - katkhedp@oregonstate.edu
+OSU ID - 934453040
+
+Name - Naren Digambar Khake
+Email - khaken@oregonstate.edu
+OSU ID - 934451067
+
+Name - Devashree Sanjay Bhavsar
+Email - bhavsard@oregonstate.edu
+OSU ID - 934452998
+
+
+
